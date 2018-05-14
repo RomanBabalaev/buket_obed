@@ -66,7 +66,73 @@ nav{
 
 .top-container{
     width: 85%;
-    margin: 0px auto;
+    margin: 0 auto;
+}
+
+.specialize-container{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.specialize-container h3{
+    font-size: 36px;
+}
+.specialize-container p{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 24px;
+
+}
+.first-p{
+    font-size: 20px;
+    color: #F0F0F0;
+}
+.bottom-cart{
+    background: #414146;
+    position: relative;
+    top: -30px;
+}
+.specialize-block{
+    display: flex;
+    justify-content: space-between;
+}
+.portfolio{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+.portfolio h4{
+    background: #F0F0F0;
+    padding: 0 4px;
+    display: inline-block;
+    color: aquamarine;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.portfolio p{
+    color: #FF11GG;
+}
+.toggles button{
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 20px 5px;
+}
+
+.toggles button:after{
+    content: ' | ';
+}
+.toggles button:last-child:after{
+    content: ' ';
+}
+.posts{
+    width: 90%;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: auto auto auto auto;
 }
 
 @media screen and (max-width:500px){

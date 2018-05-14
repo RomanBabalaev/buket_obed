@@ -49,8 +49,55 @@
         </div>
         <div class="specialize-block">
             <div class="cart">
-
+            <div class="top-cart">
+                <img src="#" alt="">
             </div>
+                <div class="bottom-cart">
+                    <p class="first-p">То что тебе <br> необходимо</p>
+                </div>
+            </div>
+            <div class="cart">
+                <div class="top-cart">
+                    <img src="#" alt="">
+                </div>
+                <div class="bottom-cart">
+                    <p class="first-p">То что тебе <br> необходимо</p>
+                </div>
+            </div>
+            <div class="cart">
+                <div class="top-cart">
+                    <img src="#" alt="">
+                </div>
+                <div class="bottom-cart">
+                    <p class="first-p">То что тебе <br> необходимо</p>
+                </div>
+            </div>
+            <div class="cart">
+                <div class="top-cart">
+                    <img src="#" alt="">
+                </div>
+                <div class="bottom-cart">
+                    <p class="first-p">То что тебе <br> необходимо</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="portfolio">
+        <h4>Category</h4>
+        <p>Category1</p>
+        <div class="toggles">
+            <button id="showall">Все букеты</button>
+            <button id="mans">Мужские</button>
+            <button id="fruit">Фруктово-Овощные</button>
+            <buttom id="sugar">Сладкие</buttom>
+        </div>
+        <div class="posts">
+            <div class="post sugar"><img src="#" alt=""></div>
+            <div class="post mans"><img src="#" alt=""></div>
+            <div class="post mans"><img src="#" alt=""></div>
+            <div class="post fruit"><img src="#" alt=""></div>
+            <div class="post mans"><img src="#" alt=""></div>
+            <div class="post fruit"><img src="#" alt=""></div>
         </div>
     </section>
 </main>
