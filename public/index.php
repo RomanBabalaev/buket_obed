@@ -43,9 +43,24 @@
         </div>
     </section>
     <section class="specialize">
-        <h3></h3>
+        <div class="specialize-container">
+            <h3>Мы работаем только для Вас</h3>
+            <p>Вам остаеться только заказать и ждать спокойно/Ваш заказ</p>
+        </div>
+        <div class="specialize-block">
+            <div class="cart">
+
+            </div>
+        </div>
     </section>
 </main>
+
+
+
+
+
+
+
 <script src="/js/script.js">
 </script>
 <script
